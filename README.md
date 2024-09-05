@@ -10,7 +10,7 @@ Welcome to the *Certi DApp*! 🌟 This decentralized application (DApp) provides
 
 Check out our live demo! 🎬👇
 
-[![Watch the video](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/Untitled%20design.png)](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/certiVid-7201959.webm)
+[![Watch the video](https://github.com/AshishS2407/Certificate-DApp/blob/main/UI/src/assets/images/Untitled%20design.png)](https://github.com/AshishS2407/Certificate-DApp/blob/main/UI/src/assets/images/certiVid-7201959.webm)
 
 ---
 
@@ -107,10 +107,10 @@ Users can verify certificates by entering the ID on the *Home* page. The data is
 ![Home Page](https://github.com/AshishS2407/certi-Dapp/blob/main/Home.png)
 
 ### 📝 Issue Certificate Page
-![Issue Certificate Page](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/issue-certificate-image.png)
+![Issue Certificate Page](https://github.com/AshishS2407/certi-Dapp/blob/main/Issue.png)
 
 ### 📜 Certificate Display
-![Certificate Display](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/certificate-display-image.png)
+![Certificate Display](https://github.com/AshishS2407/certi-Dapp/blob/main/View.png)
 
 
 ---
