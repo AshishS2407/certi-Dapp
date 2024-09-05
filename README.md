@@ -94,7 +94,6 @@ Admins can issue new certificates through the **Issue Certificate** page:
 
 javascript
 const tx = await instance.issue(cerid, cname, course, grade, date);
-```
 
 ### Verify a Certificate
 
