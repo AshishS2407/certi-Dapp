@@ -104,13 +104,14 @@ Users can verify certificates by entering the ID on the *Home* page. The data is
 ## 🎨 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/home.png)
+![Home Page](https://github.com/AshishS2407/certi-Dapp/blob/home.png)
 
 ### 📝 Issue Certificate Page
-![Issue Certificate Page](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/issueCert.png)
+![Issue Certificate Page](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/issue-certificate-image.png)
 
 ### 📜 Certificate Display
-![Certificate Display](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/view.png)
+![Certificate Display](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/certificate-display-image.png)
+
 
 ---
 
