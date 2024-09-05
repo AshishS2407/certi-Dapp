@@ -104,7 +104,7 @@ Users can verify certificates by entering the ID on the *Home* page. The data is
 ## 🎨 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://github.com/AshishS2407/certi-Dapp/blob/home.png)
+![Home Page](https://github.com/AshishS2407/certi-Dapp/blob/main/home.png)
 
 ### 📝 Issue Certificate Page
 ![Issue Certificate Page](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/issue-certificate-image.png)
