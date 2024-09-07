@@ -114,7 +114,7 @@ Users can verify certificates by entering the ID on the *Home* page. The data is
 
 ## 🤝 Contributing
 
-We welcome contributions! 🙌 Feel free to fork this project, open issues, or submit pull requests. Let’s build something amazing together! 🚀
+We welcome contribution! 🙌 Feel free to fork this project, open issues, or submit pull requests. Let’s build something amazing together! 🚀
 
 ---
 
