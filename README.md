@@ -3,12 +3,11 @@
 Welcome to the *Certi DApp*! 🌟 This decentralized application (DApp) provides a seamless, secure, and fun way to issue and verify certificates on the blockchain. Say goodbye to fake certificates and hello to trust and transparency! 🚀
 
 ---
-
 ## 🎥 Demo Video
 
 Check out our live demo! 🎬👇
 
-[![Watch the video](https://github.com/AshishS2407/certi-Dapp/blob/main/home.png)](https://github.com/AshishS2407/certi-DApp/blob/main/Certiapp.webm)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/RHL7r4BOoGc?si=6j1jOaM3XQFBi01s)
 
 ---
 
